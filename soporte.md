@@ -2,7 +2,7 @@
 
 ¿Tienes un problema o una pregunta? Escribe a **tripdash@icloud.com**. Cuéntanos el modelo y año de tu auto,
 el adaptador que usas y, si puedes, adjunta el registro de diagnóstico (Ajustes › Herramientas avanzadas ›
-Registro de diagnóstico › Compartir).
+Registro de diagnóstico, botón de compartir arriba a la derecha).
 
 ## Preguntas frecuentes
 
