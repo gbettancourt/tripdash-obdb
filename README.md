@@ -10,5 +10,5 @@ direccionamiento extendido, y datos de carrocería. `convert.py` es el script de
 
 Usada por la app TripDash (iOS), que incluye estos archivos sin descargar nada.
 
-## Política de privacidad
-La política de privacidad de TripDash está en [privacidad.md](privacidad.md).
+## Soporte y privacidad
+Soporte: [soporte.md](soporte.md) · Política de privacidad: [privacidad.md](privacidad.md).
